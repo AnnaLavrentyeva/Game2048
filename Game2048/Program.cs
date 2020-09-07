@@ -52,7 +52,7 @@ namespace Game2048
             }
             else
             {
-                Console.WriteLine("Still playing");
+                Console.WriteLine("Playing");
             }
         }
     }
